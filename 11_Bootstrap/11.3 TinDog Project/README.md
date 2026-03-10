@@ -1,6 +1,6 @@
 # TinDog Project
 
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
+HINT: To figure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
 
 ## SVGs:
@@ -45,7 +45,11 @@ Heart:
 
 ## Text:
 
+<!-- Title -->
+
 Meet new and interesting dogs nearby.
+
+<!-- Features -->
 
 Easy to use.
 So easy to use, even your dog could do it.
@@ -56,8 +60,12 @@ We have all the dogs, the greatest dogs.
 Guaranteed to work.
 Find the love of your dog's life or your money back.
 
+<!-- Testimonials -->
+
 "I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof."
 Pebbles, New York
+
+<!-- Pricing -->
 
 A Plan for Every Dog's Needs
 Simple and affordable price plans for you and your dog.
